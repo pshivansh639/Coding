@@ -1,4 +1,4 @@
-class Solution {
+class maxsub {
     public int maxSubArray(int[] nums) {
         int sum = 0;
         int max = nums[0];
